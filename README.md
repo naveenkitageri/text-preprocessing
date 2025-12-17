@@ -1,2 +1,2 @@
-# kannada-text-preprocessing
-kannada text preprocessing
+# text-preprocessing
+text preprocessing
